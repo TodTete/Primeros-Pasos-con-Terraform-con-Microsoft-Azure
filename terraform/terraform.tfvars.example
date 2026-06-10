@@ -1,1 +1,8 @@
+# Sustituye este valor por el ID de tu suscripción de Azure.
+subscription_id = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 
+# Región donde se crearán los recursos.
+location = "East US"
+
+# Nombre del Resource Group.
+resource_group_name = "rg-terraform-lab"
